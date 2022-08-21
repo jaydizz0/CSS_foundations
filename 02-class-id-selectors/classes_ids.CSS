@@ -1,0 +1,21 @@
+.odd_number {
+    background-color:rgb(255,0,255);
+    font-family:"verdana", DejaVu Sans,sans-serif;
+}
+
+#special_1{
+    color:blue;
+    font-size:36px;
+
+}
+
+#special_2{
+    font-size:24px;
+}
+
+#special_3{
+    background-color:rgb(50,209,76);
+    font: size 24px;
+    font-weight: 700;
+
+}
