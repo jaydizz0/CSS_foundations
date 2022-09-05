@@ -10,3 +10,15 @@ p{
     color: white;
     font-size: 30px;
 }
+
+.container_2 .one{
+    color:aquamarine;
+    font-size: 40px;
+    background-color: blueviolet;
+}
+
+.container_2 .two{
+    color:brown;
+    background-color: aliceblue;
+    font-size: 45px;
+}
